@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "simbolos-borrosos_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 534,
+				"h": 504
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "simbolo-00",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 166
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 176,
+						"h": 166
+					}
+				},
+				{
+					"filename": "simbolo-01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 166
+					},
+					"frame": {
+						"x": 1,
+						"y": 169,
+						"w": 176,
+						"h": 166
+					}
+				},
+				{
+					"filename": "simbolo-02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 166
+					},
+					"frame": {
+						"x": 1,
+						"y": 337,
+						"w": 176,
+						"h": 166
+					}
+				},
+				{
+					"filename": "simbolo-03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 166
+					},
+					"frame": {
+						"x": 179,
+						"y": 1,
+						"w": 176,
+						"h": 166
+					}
+				},
+				{
+					"filename": "simbolo-04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 166
+					},
+					"frame": {
+						"x": 179,
+						"y": 169,
+						"w": 176,
+						"h": 166
+					}
+				},
+				{
+					"filename": "simbolo-05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 166
+					},
+					"frame": {
+						"x": 179,
+						"y": 337,
+						"w": 176,
+						"h": 166
+					}
+				},
+				{
+					"filename": "simbolo-06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 166
+					},
+					"frame": {
+						"x": 357,
+						"y": 1,
+						"w": 176,
+						"h": 166
+					}
+				},
+				{
+					"filename": "simbolo-07",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 166
+					},
+					"frame": {
+						"x": 357,
+						"y": 169,
+						"w": 176,
+						"h": 166
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b670be42f287616ad687a15bddfe30fe:15416b0a002fcd06234d237ab38d3b1a:56c83b3809424983a6669b04124e1dbf$"
+	}
+}

@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "lineas-ganadoras_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 862,
+				"h": 411
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "linea-04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 290,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 290,
+						"h": 135
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 290,
+						"h": 135
+					}
+				},
+				{
+					"filename": "linea-07",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 290,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 290,
+						"h": 135
+					},
+					"frame": {
+						"x": 1,
+						"y": 138,
+						"w": 290,
+						"h": 135
+					}
+				},
+				{
+					"filename": "linea-01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 135
+					},
+					"frame": {
+						"x": 1,
+						"y": 275,
+						"w": 288,
+						"h": 135
+					}
+				},
+				{
+					"filename": "linea-08",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 286,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 286,
+						"h": 135
+					},
+					"frame": {
+						"x": 291,
+						"y": 275,
+						"w": 286,
+						"h": 135
+					}
+				},
+				{
+					"filename": "linea-02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 285,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 285,
+						"h": 135
+					},
+					"frame": {
+						"x": 293,
+						"y": 1,
+						"w": 285,
+						"h": 135
+					}
+				},
+				{
+					"filename": "linea-05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 285,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 285,
+						"h": 135
+					},
+					"frame": {
+						"x": 293,
+						"y": 138,
+						"w": 285,
+						"h": 135
+					}
+				},
+				{
+					"filename": "linea-03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 281,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 281,
+						"h": 135
+					},
+					"frame": {
+						"x": 579,
+						"y": 275,
+						"w": 281,
+						"h": 135
+					}
+				},
+				{
+					"filename": "linea-06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 281,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 281,
+						"h": 135
+					},
+					"frame": {
+						"x": 580,
+						"y": 1,
+						"w": 281,
+						"h": 135
+					}
+				},
+				{
+					"filename": "linea-09",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 281,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 281,
+						"h": 135
+					},
+					"frame": {
+						"x": 580,
+						"y": 138,
+						"w": 281,
+						"h": 135
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:435c82da7421474023dc9b38e4c1be60:6167b7fe889a57208351cb5b228257e6:1fee29d61fe6815ae136eff03fb86878$"
+	}
+}
