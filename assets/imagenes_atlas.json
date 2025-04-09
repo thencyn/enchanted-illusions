@@ -451,44 +451,23 @@
 					}
 				},
 				{
-					"filename": "autojuego-cuadro",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 90,
-						"h": 64
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 90,
-						"h": 64
-					},
-					"frame": {
-						"x": 1805,
-						"y": 642,
-						"w": 90,
-						"h": 64
-					}
-				},
-				{
 					"filename": "rectangulo-apuesta",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 95,
+						"w": 100,
 						"h": 56
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 95,
+						"w": 100,
 						"h": 56
 					},
 					"frame": {
 						"x": 1560,
 						"y": 1236,
-						"w": 95,
+						"w": 100,
 						"h": 56
 					}
 				},
@@ -574,6 +553,27 @@
 						"y": 1406,
 						"w": 128,
 						"h": 62
+					}
+				},
+				{
+					"filename": "autojuego-cuadro",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 64
+					},
+					"frame": {
+						"x": 1805,
+						"y": 642,
+						"w": 90,
+						"h": 64
 					}
 				},
 				{
@@ -708,6 +708,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:84a892371a3980b87fc12a5075c24889:04079a24c6569521019f479468271994:2db50c4a79ebc1bcbd9597afe4e693ea$"
+		"smartupdate": "$TexturePacker:SmartUpdate:c540b2dd85e3cd16561e3441aa281014:bcf2d654b0cce7ac31c0245c40c9d92d:2db50c4a79ebc1bcbd9597afe4e693ea$"
 	}
 }
